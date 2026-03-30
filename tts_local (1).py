@@ -1,4 +1,4 @@
-//Source Code//
+#//Source Code//
 from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
 from datasets import load_dataset
 import torch
@@ -12,12 +12,12 @@ vocoder = SpeechT5HifiGan.from_pretrained("microsoft/speecht5_hifigan")
 
 embeddings_dataset = load_dataset("Matthijs/cmu-arctic-xvectors", split="validation")
 speaker_embeddings = torch.tensor(embeddings_dataset[7306]["xvector"]).unsqueeze(0)
-
+# Ready to print.
 print("TTS Ready!")
-////
+
 def text_to_speech(text):
     inputs = processor(text=text, return_tensors="pt")
-////
+
     speech = model.generate_speech(
         inputs["input_ids"],
         speaker_embeddings,
