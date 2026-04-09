@@ -9,15 +9,3 @@ It enables users to generate scripts, visuals, and multimedia content through AI
 
 This project integrates AI models, backend APIs, and an interactive UI to deliver a seamless content creation experience.
 
-
-System Architecture :-
-
-User (UI)
-   ↓
-Frontend (React / Web UI)
-   ↓
-Backend (Flask / Node.js API)
-   ↓
-AI Models (LLMs / Media Generation)
-   ↓
-Output (Scripts, Videos, Content)
