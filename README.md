@@ -28,10 +28,10 @@ User → UI → Backend (Flask) → AI Model → Output (Text/Image/Video)
 - AI Tools: LLMs, Image Generation APIs
 
 ## Project Structure
-├── UI/
-├── backend/
-├── assets/
-├── README.md
+- UI
+- backend
+- assets
+- README.md
 
 ## Usage
 - Open the UI
