@@ -14,7 +14,7 @@ This project integrates AI models, backend APIs, and an interactive UI to delive
 -  AI Avatar / Influencer Creation
 -  Automated Video Generation
 -  Web-based UI Interface
--  End-to-End Content Pipelin
+-  End-to-End Content Pipeline
 
 # System Architecture
 ```bash
@@ -109,10 +109,13 @@ Final Output
 └── README.md
 ```
 
-## Usage
-- Open the UI
-- Enter prompt
-- Generate content automatically
+##  How It Works
+
+1. User enters a prompt  
+2. Script is generated using AI  
+3. Voice is created using TTS  
+4. Visual content is generated  
+5. Final content is assembled and delivered  
 
 ## Future Scope
 - Add real-time posting to social media
