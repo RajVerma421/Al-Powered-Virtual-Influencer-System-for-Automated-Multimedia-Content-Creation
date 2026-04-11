@@ -18,4 +18,26 @@ This project integrates AI models, backend APIs, and an interactive UI to delive
 - 🌐 Web-based UI Interface
 - ⚡ End-to-End Content Pipelin
 
+## System Architecture
 
+User → UI → Backend (Flask) → AI Model → Output (Text/Image/Video)
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Flask / Python
+- AI Tools: LLMs, Image Generation APIs
+
+## Usage
+- Open the UI
+- Enter prompt
+- Generate content automatically
+
+## Future Scope
+- Add real-time posting to social media
+- Improve AI personalization
+- Add analytics dashboard
+  
+## Contributors
+- Raj Kumar Verma
+- Ankit Yadav
+- Yash Sharma
