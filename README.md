@@ -36,6 +36,25 @@ Analytics & Feedback
 - Backend: Flask / Python
 - AI Tools: LLMs, Image Generation APIs
 
+## Installation Guide
+### Clone Repository
+- git clone https://github.com/RajVerma421/Al-Powered-Virtual-Influencer-System-for-Automated-Multimedia-Content-Creation.git
+
+### Navigate to Project
+- cd Al-Powered-Virtual-Influencer-System-for-Automated-Multimedia-Content-Creation
+
+### Create Virtual Environment
+- python -m venv venv
+
+### Activate Environment
+- venv\Scripts\activate
+
+### Install Dependencies
+- pip install -r requirements.txt
+
+### Run Backend
+- python app.pyk
+
 ## Project Structure
 - UI
 - backend
