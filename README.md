@@ -1,4 +1,5 @@
-# AI-Powered Virtual Influencer System Automated Multimedia Content Creation Platform
+# AI-Powered Virtual Influencer System Automated Multimedia Content Creation
+
 ## Overview
 
 The AI-Powered Virtual Influencer System is an end-to-end platform designed to automate the creation of digital influencer content using Artificial Intelligence.
