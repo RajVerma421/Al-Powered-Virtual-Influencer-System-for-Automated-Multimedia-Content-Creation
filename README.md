@@ -115,7 +115,12 @@ Final Output
 2. Script is generated using AI  
 3. Voice is created using TTS  
 4. Visual content is generated  
-5. Final content is assembled and delivered  
+5. Final content is assembled and delivered
+
+## 📸 Demo
+
+![UI](assets/ui.png)
+![Output](assets/output.png)
 
 ## Future Scope
 - Add real-time posting to social media
