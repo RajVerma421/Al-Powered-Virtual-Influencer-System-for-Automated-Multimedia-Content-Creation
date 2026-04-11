@@ -18,9 +18,21 @@ This project integrates AI models, backend APIs, and an interactive UI to delive
 -  Web-based UI Interface
 -  End-to-End Content Pipelin
 
-## System Architecture
+## Workflow
 
-User → UI → Backend (Flask) → AI Model → Output (Text/Image/Video)
+User Input  
+   ↓  
+AI Script Generator (LLM)  
+   ↓  
+Media Generation (Image/Video AI)  
+   ↓  
+Voice Synthesis (TTS Engine)  
+   ↓  
+Content Assembly  
+   ↓  
+Publishing Module  
+   ↓  
+Analytics & Feedback
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
