@@ -119,8 +119,7 @@ Final Output
 
 ## Demo
 
-![UI](assets/ui.png)
-![Output](assets/output.png)
+![Output](output.png)
 
 ## Future Scope
 - Add real-time posting to social media
