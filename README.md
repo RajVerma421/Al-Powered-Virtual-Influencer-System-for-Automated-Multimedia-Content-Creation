@@ -117,7 +117,7 @@ Final Output
 4. Visual content is generated  
 5. Final content is assembled and delivered
 
-## 📸 Demo
+## Demo
 
 ![UI](assets/ui.png)
 ![Output](assets/output.png)
