@@ -1,4 +1,5 @@
-# AI-Powered Virtual Influencer System Automated Multimedia Content Creation
+#  AI-Powered Virtual Influencer System  
+### Automated Multimedia Content Creation Platform
 
 The AI-Powered Virtual Influencer System is an end-to-end platform designed to automate the creation of digital influencer content using Artificial Intelligence.
 
@@ -58,21 +59,19 @@ This project integrates AI models, backend APIs, and an interactive UI to delive
 ```
 
 ## Workflow
-
-User Input  
-   ↓  
-AI Script Generator (LLM)  
-   ↓  
-Media Generation (Image/Video AI)  
-   ↓  
-Voice Synthesis (TTS Engine)  
-   ↓  
-Content Assembly  
-   ↓  
-Publishing Module  
-   ↓  
-Analytics & Feedback
-
+```bash
+User Input
+   ↓
+Script Generation (LLM)
+   ↓
+Media Generation (Image/Video)
+   ↓
+Voice Synthesis (TTS)
+   ↓
+Content Assembly
+   ↓
+Final Output
+```
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Flask / Python
