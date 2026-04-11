@@ -56,10 +56,17 @@ Analytics & Feedback
 - python app.py
 
 ## Project Structure
-- UI
-- backend
-- assets
-- README.md
+```bash
+├── frontend/        # UI files
+├── backend/         # Flask backend
+│   ├── app.py
+│   ├── routes/
+│   ├── services/
+├── ai_modules/      # AI logic
+├── assets/          # Images, videos
+├── requirements.txt
+└── README.md
+```
 
 ## Usage
 - Open the UI
