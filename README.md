@@ -53,7 +53,7 @@ Analytics & Feedback
 - pip install -r requirements.txt
 
 ### Run Backend
-- python app.pyk
+- python app.py
 
 ## Project Structure
 - UI
