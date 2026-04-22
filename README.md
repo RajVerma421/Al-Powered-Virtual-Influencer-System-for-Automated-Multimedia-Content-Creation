@@ -16,7 +16,7 @@ This project integrates AI models, backend APIs, and an interactive UI to delive
 -  Web-based UI Interface
 -  End-to-End Content Pipeline
 
-# Architecture
+## Architecture
 ```bash
                 ┌──────────────────────┐
                 │      Frontend UI     │
