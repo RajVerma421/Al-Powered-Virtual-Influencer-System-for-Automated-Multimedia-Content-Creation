@@ -113,7 +113,7 @@ Final Output
 
 1. User enters a prompt
 2. AI generates script
-3. Voice is created using TTS  
+3. TTS converts script to voice  
 4. Visual content is generated  
 5. Final content is assembled and delivered
 
