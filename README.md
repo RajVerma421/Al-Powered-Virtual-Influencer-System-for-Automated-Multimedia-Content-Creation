@@ -116,6 +116,7 @@ Final Output
 3. TTS converts script to voice  
 4. Visual content is generated  
 5. System combines all components
+6. Final content is delivered
 
 ## Demo
 
