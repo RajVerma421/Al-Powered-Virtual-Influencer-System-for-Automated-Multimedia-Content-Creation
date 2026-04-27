@@ -115,7 +115,7 @@ Final Output
 2. AI generates script
 3. TTS converts script to voice  
 4. Visual content is generated  
-5. Final content is assembled and delivered
+5. System combines all components
 
 ## Demo
 
