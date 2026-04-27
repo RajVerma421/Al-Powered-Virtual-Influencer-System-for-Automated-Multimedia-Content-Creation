@@ -126,8 +126,3 @@ Final Output
 - Add real-time posting to social media
 - Improve AI personalization
 - Add analytics dashboard
-  
-## Contributors
-- Yash Sharma
-- Ankit Yadav
-- Raj Kumar Verma
