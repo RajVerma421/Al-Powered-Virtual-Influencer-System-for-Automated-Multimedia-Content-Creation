@@ -111,7 +111,7 @@ Final Output
 
 ##  How It Works
 
-1. User enters a prompt  
+1. User enters a prompt
 2. Script is generated using AI  
 3. Voice is created using TTS  
 4. Visual content is generated  
