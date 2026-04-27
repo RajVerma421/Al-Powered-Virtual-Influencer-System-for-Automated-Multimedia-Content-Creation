@@ -127,6 +127,6 @@ Final Output
 - Add analytics dashboard
   
 ## Contributors
-- Raj Kumar Verma
-- Ankit Yadav
 - Yash Sharma
+- Ankit Yadav
+- Raj Kumar Verma
