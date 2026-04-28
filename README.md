@@ -152,7 +152,7 @@ AI-Powered-Virtual-Influencer-System/
 
 ### 1. Intelligent Script Generation
 
-The system utilizes Ollama with Mistral 7B model to generate contextually appropriate scripts based on user input. Features include:
+The system leverages Ollama with the Mistral 7B model to generate contextually relevant scripts based on user input. Key features include:
 
 - **Topic-Based Generation** - Creates scripts based on user-provided topics
 - **Tone Selection** - Supports multiple emotional tones (Excited, Motivational, Funny, Serious, Inspirational)
