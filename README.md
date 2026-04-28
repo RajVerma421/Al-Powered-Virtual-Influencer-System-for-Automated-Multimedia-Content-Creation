@@ -1,6 +1,6 @@
 # AI-Powered Virtual Influencer System
 
-An intelligent platform for automated multimedia content creation - generating AI-powered scripts, text-to-speech audio, and professional videos for social media platforms.
+An intelligent platform for automated multimedia content creation—generating AI-driven scripts, text-to-speech audio, and professional-quality videos for social media platforms.
 
 ---
 
