@@ -154,8 +154,8 @@ AI-Powered-Virtual-Influencer-System/
 
 The system leverages Ollama with the Mistral 7B model to generate contextually relevant scripts based on user input. Key features include:
 
-- Topic-Based Generation – Produces scripts tailored to user-defined topics
-- Tone Selection – Supports a variety of tones (Excited, Motivational, Funny, Serious, Inspirational)
+- **Topic-Based Generation** – Produces scripts tailored to user-defined topics
+- **Tone Selection** – Supports a variety of tones (Excited, Motivational, Funny, Serious, Inspirational)
 - **Content Type Optimization** - Generates platform-specific content
 - **Safety Filtering** - Automatically blocks inappropriate content requests
 - **Fallback System** - Template-based generation when LLM is unavailable
