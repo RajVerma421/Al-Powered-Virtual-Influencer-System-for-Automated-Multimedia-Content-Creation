@@ -158,7 +158,7 @@ The system leverages Ollama with the Mistral 7B model to generate contextually r
 - **Tone Selection** – Supports a variety of tones (Excited, Motivational, Funny, Serious, Inspirational)
 - **Content Type Optimization** - Creates platform-specific content for better engagement
 - **Safety Filtering** - Automatically filters and blocks inappropriate content requests
-- **Fallback System** - Template-based generation when LLM is unavailable
+- **Fallback System** - Uses template-based generation when the LLM is unavailable
 
 ### 2. Text-to-Speech Conversion
 
