@@ -6,7 +6,7 @@ An intelligent platform for automated multimedia content creation—generating A
 
 ## Overview
 
-AI-Powered Virtual Influencer System is a full-stack AI application that enables users to create professional multimedia content for social media platforms including Instagram Reels, YouTube Shorts, TikTok, and advertisements. The system leverages cutting-edge AI technologies including Large Language Models (LLM), Neural Text-to-Speech, and video generation to automate the content creation pipeline.
+The AI-Powered Virtual Influencer System is a full-stack AI application that enables users to create high-quality multimedia content for social media platforms such as Instagram Reels, YouTube Shorts, TikTok, and advertisements. The system utilizes advanced AI technologies, including Large Language Models (LLMs), neural text-to-speech, and video generation, to streamline and automate the entire content creation pipeline.
 
 ### Key Capabilities
 
