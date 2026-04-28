@@ -10,7 +10,7 @@ The AI-Powered Virtual Influencer System is a full-stack AI application that ena
 
 ### Key Capabilities
 
-- **Intelligent Script Generation** - AI-powered content creation using Mistral LLM
+- Intelligent Script Generation – AI-driven content creation using the Mistral LLM
 - **Natural Voice Synthesis** - Convert scripts to natural-sounding audio
 - **Professional Video Production** - Generate dynamic videos with animated avatars
 - **Multi-Platform Support** - Create content for Reels, Shorts, TikTok, and Posts
