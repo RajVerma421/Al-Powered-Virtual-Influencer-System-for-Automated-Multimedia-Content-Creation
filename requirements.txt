@@ -1,0 +1,54 @@
+pandas
+numpy
+# Langchain:
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+# LangSmith for monitoring
+langsmith
+
+# Google gemini(PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-Hub
+# tensorflow
+sentence-transformers
+
+# Envirnoment Variable Management
+python-dotenv
+
+# Flask
+flask
+# pytorch
+
+# gtts for text to audio
+gtts
+
+# 
+transformers
+pipeline
+
+# Datasets for the text to speach.
+sentencepiece
+soundfile
+
+# vedio_generator
+moviepy
+
+# Authentication
+flask-login
+flask-sqlalchemy
+flask-bcrypt
+email-validator
+flask-wtf
+wtforms
+
+# Production Server
+gunicorn
+imageio-ffmpeg
