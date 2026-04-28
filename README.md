@@ -14,7 +14,7 @@ The AI-Powered Virtual Influencer System is a full-stack AI application that ena
 - Natural Voice Synthesis – Converts scripts into realistic, natural-sounding audio
 - Professional Video Production – Generates dynamic videos with animated avatars
 - Multi-Platform Support – Creates content tailored for Reels, Shorts, TikTok, and posts
-- **Secure Authentication** - User registration with password hashing and session management
+- Secure Authentication – Ensures safe user registration with password hashing and session management
 
 ---
 
