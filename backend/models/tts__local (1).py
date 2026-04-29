@@ -8,7 +8,7 @@ import os
 import subprocess
 # Initial log
 print("Loading TTS model...")
-
+# Try loading neural TTS model (SpeechT5)
 try:
     processor = SpeechT5Processor.from_pretrained("microsoft/speecht5_tts")
     model = SpeechT5ForTextToSpeech.from_pretrained("microsoft/speecht5_tts")
