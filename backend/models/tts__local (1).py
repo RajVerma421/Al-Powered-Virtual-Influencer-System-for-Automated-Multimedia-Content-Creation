@@ -25,6 +25,7 @@ try:
     
     use_neural = True
     print("Neural TTS Ready!")
+# If neural model fails, fallback to gTTS
 except Exception as e:
     print(f"Neural TTS failed: {e}, using gTTS")
     use_neural = False
