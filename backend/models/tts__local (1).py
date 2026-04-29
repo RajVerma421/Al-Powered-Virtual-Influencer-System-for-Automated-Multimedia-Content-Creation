@@ -15,6 +15,7 @@ try:
     vocoder = SpeechT5HifiGan.from_pretrained("microsoft/speecht5_hifigan")
     
     embeddings_path = "static/speaker_embeddings.npy"
+    # Check if embeddings file exists
     if os.path.exists(embeddings_path):
         emb = np.load(embeddings_path)
         emb = np.asarray(emb).flatten()[:512]
