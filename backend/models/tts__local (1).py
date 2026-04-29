@@ -1,4 +1,5 @@
 #//Source Code//
+# Import required libraries for Text-to-Speech (TTS)
 from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
 import torch
 import soundfile as sf
