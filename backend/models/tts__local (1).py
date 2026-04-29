@@ -6,7 +6,7 @@ import soundfile as sf
 import numpy as np
 import os
 import subprocess
-
+# Initial log
 print("Loading TTS model...")
 
 try:
